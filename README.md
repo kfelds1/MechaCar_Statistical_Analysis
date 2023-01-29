@@ -30,4 +30,17 @@ The above shows the summary statistics of suspension coils for the three lots co
 
 ![Screen Shot 2023-01-29 at 9 26 47 AM](https://user-images.githubusercontent.com/112633146/215333020-8f67e756-b05b-4994-9569-7a182f82c999.png)
 
+## T-Tests on Suspension Coils
+
+![Screen Shot 2023-01-29 at 11 29 38 AM](https://user-images.githubusercontent.com/112633146/215340498-a2cfe9a0-93b9-4249-bb54-69dd4c6bb32a.png)
+
+### Lot 1
+![Screen Shot 2023-01-29 at 11 35 27 AM](https://user-images.githubusercontent.com/112633146/215340604-ad572322-f6f8-478a-840a-1325ead9fd57.png)
+
+
+### Lot 2
+![Screen Shot 2023-01-29 at 11 36 02 AM](https://user-images.githubusercontent.com/112633146/215340636-11c061fc-16c7-4d21-978e-00475c8308c6.png)
+
+### Lot 3
+![Screen Shot 2023-01-29 at 11 36 29 AM](https://user-images.githubusercontent.com/112633146/215340668-083acc0b-8364-4369-8bf3-327caf861e7c.png)
 
