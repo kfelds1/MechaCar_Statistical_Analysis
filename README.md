@@ -24,6 +24,8 @@ The slope of the linear model is not considered to be zero. Though some variable
 
 ![Screen Shot 2023-01-29 at 9 19 27 AM](https://user-images.githubusercontent.com/112633146/215332602-50b941e2-0e71-4e71-abe4-b7eaa03f04b2.png)
 
+### Summary of Each Manufacturing Lot
+
 The above shows the summary statistics of suspension coils for the three lots combined. As a whole, the variance is 62.29, which meets the design specifications because it is less than 100 pounds per square inch. However, when looking at the summary statistics for each lot individually (seen below), lot 3 does not reach the design specifications, as its variance is about 170 pounds per square inch.
 
 ![Screen Shot 2023-01-29 at 9 26 47 AM](https://user-images.githubusercontent.com/112633146/215333020-8f67e756-b05b-4994-9569-7a182f82c999.png)
