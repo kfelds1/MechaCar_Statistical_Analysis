@@ -34,6 +34,8 @@ The above shows the summary statistics of suspension coils for the three lots co
 
 ![Screen Shot 2023-01-29 at 11 29 38 AM](https://user-images.githubusercontent.com/112633146/215340498-a2cfe9a0-93b9-4249-bb54-69dd4c6bb32a.png)
 
+The first t-test (results pictured above) reveal a p-value of 0.06028. Since this value is greater than .05, the total manufacturing lot is not statistically significant.
+
 ### Lot 1
 ![Screen Shot 2023-01-29 at 11 35 27 AM](https://user-images.githubusercontent.com/112633146/215340604-ad572322-f6f8-478a-840a-1325ead9fd57.png)
 
