@@ -46,3 +46,9 @@ The first t-test (results pictured above) reveal a p-value of 0.06028. Since thi
 ### Lot 3
 ![Screen Shot 2023-01-29 at 11 36 29 AM](https://user-images.githubusercontent.com/112633146/215340668-083acc0b-8364-4369-8bf3-327caf861e7c.png)
 
+When performing t-tests on individual lots, we can see that lots 1 and 2 have t-values of 8.72 and 3.67, respectively, and p-values of approximately 0. However, when observing the results of lot 3's t-test, we can see the p-value of 0.159 and the fact that 1500 pounds per square inch does not fall within the 95% confidence interval. We can assume that lot 3 is statistically significant with an alpha of .05.
+
+
+## Study Design: MechaCar vs Competition
+
+When observing the performance of the MechaCar, we need to understand how certain metrics might compare to those of the vehicle's competition. For example, some of these variables include city and highway fuel efficiency, safety rating, and horsepower. These are the three variables that we will test next.
