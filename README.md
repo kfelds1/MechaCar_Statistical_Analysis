@@ -52,3 +52,9 @@ When performing t-tests on individual lots, we can see that lots 1 and 2 have t-
 ## Study Design: MechaCar vs Competition
 
 When observing the performance of the MechaCar, we need to understand how certain metrics might compare to those of the vehicle's competition. For example, some of these variables include city and highway fuel efficiency, safety rating, and horsepower. These are the three variables that we will test next.
+
+The null hypothesis for testing these variables is that the MechaCar's measures are not significantly different from those of its competition. The alternative hypothesis is that the MecharCar varies significantly from its competitors in terms of fuel efficiency, safety rating, and horsepower.
+
+We would perform t-tests on these variables for both the MechaCar and its competition in order to discover the most efficient and safe vehicle. This statistical test could allow the potential customers to clearly see which vehicle is the best option; the preferred option is the car with the higher city and highway fuel efficiency, the higher safety rating, and the higher horsepower.
+
+To make these tests possible, we would need the data for these variables for both the MechaCar and its competition. For a more reliable experiment, we should use a random sample of at least 30 observations to ensure that we can detect true differences between the vehicles.
